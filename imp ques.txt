@@ -1,0 +1,21 @@
+. What is the difference between oracle and SQL?
+2. What are the different commands used in both?
+3. Write a query to see the name of the current user?
+4. Write a query to change the name of SQL prompt?
+5. Write a query to eliminate duplicate rows in an Oracle database?
+
+
+5. How to initialize a pointer to a function?
+
+6. Can a C++ program be linked with a C program?
+
+7. How a function can return a structure?
+
+8. Write a program to reverse a link list?
+
+9. What are the advantages of exceptions in C++?
+Are you ready to move to any place if you get selected?
+2. Will you sign a bond with us?
+3. What is multiplexed in microprocessor?
+4. Do you want to ask me anything regarding your job profile?
+5. What do you know about the company?
